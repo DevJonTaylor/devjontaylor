@@ -1,5 +1,5 @@
 # Jon Taylor
-## Some Experience
+## Experienced
 [![Node v16.14 ](https://img.shields.io/badge/Node%20v16.14-339933?labelColor=ffffff&style=plastic&logo=node.js&logoColor=339933 'Node.JS')](https://nodejs.org/)
 [![MySQL2 v2.3.3](https://img.shields.io/badge/MySQL2%20v2.3.3-00d1b2?labelColor=ffffff&style=plastic&logo=MySQL 'NodeJS Website')](https://www.npmjs.com/package/mysql2)
 [![Sequelize v6.17.0](https://img.shields.io/badge/Sequelize%20v6.17.0-52b0e7?labelColor=ffffff&style=plastic&logo=sequelize&logoColor=52b0e7 'Sequelize NPM')](https://sequelize.org/)
